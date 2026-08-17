@@ -1,0 +1,22 @@
+/// Nationalités prises en charge par randomuser.me (paramètre `nat`).
+const Map<String, String> kNationalities = {
+  'au': '🇦🇺 Australie',
+  'br': '🇧🇷 Brésil',
+  'ca': '🇨🇦 Canada',
+  'ch': '🇨🇭 Suisse',
+  'de': '🇩🇪 Allemagne',
+  'dk': '🇩🇰 Danemark',
+  'es': '🇪🇸 Espagne',
+  'fi': '🇫🇮 Finlande',
+  'fr': '🇫🇷 France',
+  'gb': '🇬🇧 Royaume-Uni',
+  'ie': '🇮🇪 Irlande',
+  'in': '🇮🇳 Inde',
+  'mx': '🇲🇽 Mexique',
+  'nl': '🇳🇱 Pays-Bas',
+  'no': '🇳🇴 Norvège',
+  'nz': '🇳🇿 Nouvelle-Zélande',
+  'tr': '🇹🇷 Turquie',
+  'ua': '🇺🇦 Ukraine',
+  'us': '🇺🇸 États-Unis',
+};
